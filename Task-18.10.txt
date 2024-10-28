@@ -1,0 +1,31 @@
+Ededin menfi veya musbet oldugunu tapan algoritm.
+
+
+ededin faktoriyalini hesablayan algoritm (5 => 5*4*3*2*1 = 120)
+
+
+
+Ededin daxil oldugu araliga gore qiymetini output-a cixaran algoritm 
+ 90-100 => "A"
+ 80-89 => "B"
+ 70-79 => "C"
+ 60-69 => "D"
+ 0 -59 => "F"
+
+
+
+5 ferqli ededin ededi ortasini tapan algoritm (ededlerinin cemini, ededlerin sayina bolmekle ededi orta tapilir.)
+int num = Int32.Parse(Console.ReadLine);
+
+
+3 eded arasinda en boyuk ededi tapan algoritm yazin.
+
+
+ededin neçe mertebeli oldugunu tapan algortim yazin.
+
+
+Fibonacci sequence algoritmi : 99-a qeder
+
+
+Ədədin 2-nin qüvvəti olub olmadığını tapan alqoritm.
+

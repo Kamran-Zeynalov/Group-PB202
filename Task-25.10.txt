@@ -1,0 +1,34 @@
+Calculate() adli 3 method yaradirsiz: 
+ilk method geriye 4 integer parametrlerinin cemini qaytaracaq.
+ikinici method void  olacaq ekrana string ve int deyerlerinin birlesimini yazacaq. Meselen: 4 telebe, PB202
+ucuncu Methodu ozunuz yazacaqsiz, ilk methodla ust uste dusmesin!.
+
+------------------------------------------------------------
+
+iki eded uzerinde toplama, cixma, vurma, bolme emeliyyatlari edecek 4 ferqli method yazirsiz. Hamisinin neticesni qaliq hissesi ile birlikde gorsenmelidir.(Eger netice qaliqli alinirsa)
+
+----------------------------------------------------------------------
+
+Sum() adli 3 metodunuz olacaq: 
+1. iki int type ile,
+2. iki double type ile 
+3. int[] array 
+parametrleri ile islesin.
+
+----------------------------------------------------------------------
+
+Bir array icindeki en boyuk ve en kicik ededi tapan Metod yazirsiz.
+
+----------------------------------------------------------------------
+
+BinnarySearch() adli method yaradin, Bir array daxilindeki axtardigimiz elementin index-ni qaytaracaq.
+
+----------------------------------------------------------------------
+
+string name = "Full Stack Developer";
+verilmis string-in Uzunlugunu tapan, metni ters ceviren, metni boyuk herflerle yazan 3 method yazirsiniz.
+Hazir methodlardan istifade qadagandir. method un icini manual olaraq yazin.
+
+----------------------------------------------------------------------
+
+     Natural ededin evveline 3 kecirib yeni eded duzelden bir method yazin. Example: 529 => 3529. ("3" + 529 => qadagandir.)
